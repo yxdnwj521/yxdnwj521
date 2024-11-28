@@ -1,12 +1,69 @@
-- 👋 Hi, I’m @JAVA高级工程师.py
-- 👀 I’m interested in java
-- 🌱 I’m currently learning MY SQL
-- 💞️ I’m looking to collaborate on 我支持前后端搭建
-- 📫 How to reach me 1917413192@qq.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+ 
+# 个人简介
 
-<!---
-yxdnwj521/yxdnwj521 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi, I'm @YourGitHubUsername.py
+
+- 🌐 我对 **Java** 感兴趣。
+- 🚀 目前正在学习 **MySQL**。
+- 👩🏻‍💻 寻求合作机会，专注于 **前端开发**。
+- 📧 如何联系我：your-email@example.com
+- 👁️‍🗨️ 代词：他们/他们
+
+## Pronouns: They/Them
+
+## Fun fact: ...（您可以在这里添加一些有趣的事实）
+
+---
+
+## 特别说明
+
+yxdwj521/yxdwj521 是一个特别的仓库，因为它的 README.md 文件会显示在您的 GitHub 个人资料上。您可以点击预览链接查看您的更改。
+
+---
+
+## 技能树
+
+- 💻 **编程语言**：
+  - Java
+  - Python
+  - JavaScript
+
+- 🖥 **工具和技术**：
+  - MySQL
+  - HTML/CSS
+  - Git
+
+---
+
+## 项目经历
+
+### 项目名称
+- **描述**：简要介绍项目的内容和目标。
+- **职责**：您在项目中的角色和贡献。
+- **技术栈**：使用的技术和工具。
+
+### 另一个项目
+- **描述**：简要介绍项目的内容和目标。
+- **职责**：您在项目中的角色和贡献。
+- **技术栈**：使用的技术和工具。
+
+---
+
+## 教育背景
+
+- **学校名称**，**学位**，**专业**，**入学时间 - 毕业时间**
+
+---
+
+## 联系方式
+
+- **电子邮件**：your-email@example.com
+- **社交媒体**：例如，LinkedIn，Twitter 等。
+
+---
+
+## 感谢阅读！
+
+如果您对我的项目或技能感兴趣，请随时联系我。期待与您合作！
+
+ 
