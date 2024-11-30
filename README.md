@@ -7,11 +7,11 @@
 - 🚀 目前正在学习 **MySQL**。
 - 👩🏻‍💻 寻求合作机会，专注于 **前端开发**。
 - 📧 如何联系我：zjx1917413192@163.com
-- 👁️‍🗨️ 代词：他们/他们
+- 👁️‍🗨️ 代词：他们
 
 ## Pronouns: They/Them
 
-## Fun fact: ...（您可以在这里添加一些有趣的事实）
+## Fun fact:我在Gitee上创建了一个组织https://gitee.com/geek-vanguard可以进行观察
 
 ---
 
