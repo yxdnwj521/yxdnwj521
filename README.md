@@ -1,6 +1,6 @@
 # 个人简介
 
-## Hi, I'm @YourGitHubUsername.py
+## Hi, I'm @yxdnwj521
 
 - 🌐 我的专业是 **Java**，但对 **AI大模型** 更感兴趣。
 - 🚀 目前专注于 **AI大模型微调** 和 **MySQL** 学习。
